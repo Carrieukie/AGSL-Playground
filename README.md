@@ -13,3 +13,16 @@ AGSL provides developers with a powerful and expressive way to create custom vis
 AGSL is a very powerful tool that can be used to create a wide variety of visual effects. However, it is also a relatively new language, and there are still some limitations to what can be done with it. For example, AGSL does not yet support all of the features of SkSL, and it can be difficult to debug AGSL shaders.
 
 Despite these limitations, AGSL is a promising new technology that has the potential to revolutionize the way Android applications are developed. Developers who are interested in creating custom visual effects should definitely explore AGSL.
+
+## Getting Started
+
+- Prerequisite: Android 13 (API 33) device
+- Clone and build the project
+- Explore the shaders and experiment with them in your own projects!
+
+## References
+
+- [Shadertoy](https://www.shadertoy.com/)
+- [shaders.skia.org](https://shaders.skia.org/) - best place to debug SkSL shaders
+- [The Book of Shaders](https://thebookofshaders.com/) - best resource to learn about shaders
+- Awesome articles detailing `RenderEffect`s in [Jetpack Compose](https://medium.com/androiddevelopers/making-jellyfish-move-in-compose-animating-imagevectors-and-applying-agsl-rendereffects-3666596a8888) and [Compose Desktop](https://www.pushing-pixels.org/2022/04/09/shader-based-render-effects-in-compose-desktop-with-skia.html)
